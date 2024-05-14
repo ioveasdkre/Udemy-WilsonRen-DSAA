@@ -1,0 +1,18 @@
+{
+  "name": "udemy-wilsonren-dsaa",
+  "version": "1.0.0",
+  "description": "資料結構與演算法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node ./src/Ch03/main.ts",
+    "nodemon": "npx nodemon ./src/Ch03/main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
